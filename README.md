@@ -30,3 +30,6 @@ The aim of this course is to prepare the student for the job market.
 * Sum numbers in a string
     * File: [sum-numbers](sum-numbers)
 
+* Verify if every digit in [1, 2, 3, 4, 5, 6, 7, 8, 9] appears in an array one and only one time.
+    * File: [sudoku](sudoku)
+
