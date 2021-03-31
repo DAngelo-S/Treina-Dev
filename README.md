@@ -24,3 +24,5 @@ The aim of this course is to prepare the student for the job market.
 * Count how many vowels and consonants there are in a phrase.
     * File: [count-vowels-consonants](count-vowels-consonants)
 
+* Transform a phrase, turning each even character into downcase and each odd character into upcase.
+    * File: [studly-caps](studly-caps)
