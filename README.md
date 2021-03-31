@@ -11,5 +11,9 @@ The aim of this course, is to prepare the student for the job market.
 ## Selective Process
 
 ### **Using Git**:  
-* Configure and learn how to use git and commit and example file.
-* File: [git-example](git-example)
+* Configure and learn how to use git and commit an example file.
+    * File: [git-example](git-example)
+
+### **Ruby Fundamentals**
+* Create an simple calculator that sums, subtracts, multiply and divides two numbers.
+    * File: [calculator](calculator)
