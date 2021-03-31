@@ -4,9 +4,3 @@
 [submodule "calculator"]
 	path = calculator
 	url = git@gitlab.codesaga.com.br:Starry/calculator
-[submodule "git-example"]
-	path = git-example
-	url = git@gitlab.codesaga.com.br:Starry/git-example
-[submodule "data-types"]
-	path = data-types
-	url = git@gitlab.codesaga.com.br:Starry/data-types
