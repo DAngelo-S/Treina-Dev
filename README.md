@@ -18,5 +18,9 @@ The aim of this course is to prepare the student for the job market.
 * Create an simple calculator that sums, subtracts, multiply and divides two numbers.
     * File: [calculator](calculator)
 
-* Create an code that return a data of an specific data type
+* Return a data of an specific data type
     * File: [data-types](data-types)
+
+* Count how many vowels and consonants there are in a phrase.
+    * File: [count-vowels-consonants](count-vowels-consonants)
+
