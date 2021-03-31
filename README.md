@@ -1,12 +1,12 @@
 # Treina Dev
 
-Here will be my exercises for Treina-Dev, an online course about web development in Ruby.
+Here I'll keep my exercises for TreinaDev, an online course about web development in Ruby.
 
 First, I'll keep here the exercises I had to do for the selective process that I'm current enrolled.
 
 Next, I pretend to keep my projects for the course.
 
-The aim of this course, is to prepare the student for the job market.
+The aim of this course is to prepare the student for the job market.
 
 ## Selective Process
 
@@ -17,3 +17,6 @@ The aim of this course, is to prepare the student for the job market.
 ### **Ruby Fundamentals**
 * Create an simple calculator that sums, subtracts, multiply and divides two numbers.
     * File: [calculator](calculator)
+
+* Create an code that return a data of an specific data type
+    * File: [data-types](data-types)
