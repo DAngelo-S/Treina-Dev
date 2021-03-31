@@ -26,3 +26,7 @@ The aim of this course is to prepare the student for the job market.
 
 * Transform a phrase, turning each even character into downcase and each odd character into upcase.
     * File: [studly-caps](studly-caps)
+
+* Sum numbers in a string
+    * File: [sum-numbers](sum-numbers)
+
