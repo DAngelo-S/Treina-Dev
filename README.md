@@ -33,3 +33,5 @@ The aim of this course is to prepare the student for the job market.
 * Verify if every digit in [1, 2, 3, 4, 5, 6, 7, 8, 9] appears in an array one and only one time.
     * File: [sudoku](sudoku)
 
+* Find the '?' in a first degree equation
+    * File: [mistery-number](mistery-number)
