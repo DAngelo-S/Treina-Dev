@@ -38,3 +38,6 @@ The aim of this course is to prepare the student for the job market.
 
 * Multiply each item in an array for its index
     * File: [array-index](array-index)
+
+* Multiply odd or even numbers by a variable
+    * File: [array-odd-even](array-odd-even)
