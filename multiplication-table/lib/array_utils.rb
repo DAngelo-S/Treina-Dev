@@ -6,7 +6,7 @@ class ArrayUtils
   def self.tabuada(num)
     resp = [] 
     (1..num).each do |n|
-      resp += [(1..10).map{|i| i*n}]
+      resp += [multiplos(10, n)]
     end
     resp
   end
