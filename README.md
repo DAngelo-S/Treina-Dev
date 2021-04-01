@@ -51,4 +51,5 @@ The aim of this course is to prepare the student for the job market.
 * Verify if there is a string that is equal of its reverse for each string in an array and if it is true, remove it.
     * File: [array-inverse-string](array-inverse-string)
 
-* 
+* Create multiple functions to manipulate arrays
+    * File: [manipulate-arrays](manipulate-arrays)
