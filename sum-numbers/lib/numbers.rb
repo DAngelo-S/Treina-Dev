@@ -4,6 +4,6 @@ class Numbers
     numbers_text.each_line do |line|
       sum += line.to_i
     end
-    return sum
+    sum
   end
 end
