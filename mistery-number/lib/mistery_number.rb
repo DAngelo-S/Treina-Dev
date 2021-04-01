@@ -23,7 +23,7 @@ class MisteryNumber
       index += 1
     end
     resp[2] = index - 1
-    return resp
+    return (resp[0] && resp[1] == 0 ? "Qualquer coisa" : resp)
   end
   
   def calculate(operation)
@@ -41,7 +41,9 @@ class MisteryNumber
         signal = '-'
       elsif (operation[index] == '*' || operation[index] == '/')
         tmp = mult(operation, index-1)
-        if(tmp[0])
+        if(tmp == "Qualquer coisa")
+          return "Qualquer coisa"
+        elsif(tmp[0])
           multiplier = 1/tmp[1].to_f
         elsif
           if(signal == '+')
