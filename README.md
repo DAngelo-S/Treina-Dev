@@ -35,3 +35,6 @@ The aim of this course is to prepare the student for the job market.
 
 * Find the '?' in a first degree equation
     * File: [mistery-number](mistery-number)
+
+* Multiply each item in an array for its index
+    * File: [array-index](array-index)
