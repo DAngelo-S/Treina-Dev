@@ -47,3 +47,8 @@ The aim of this course is to prepare the student for the job market.
 
 * Replace each item in an array by its antecessor and its successor.
     * File: [multiply-arrays](multiply-arrays)
+
+* Verify if there is a string that is equal of its reverse for each string in an array and if it is true, remove it.
+    * File: [array-inverse-string](array-inverse-string)
+
+* 
