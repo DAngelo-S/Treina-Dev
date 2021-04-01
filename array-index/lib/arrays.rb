@@ -1,8 +1,7 @@
 class Arrays
   def self.multiplica_indices(array)
-    array.each_with_index do |n, i|
-      array[i] = n*i
+    array.map.with_index do |number, index|
+      number * index
     end
-    array
   end
 end
