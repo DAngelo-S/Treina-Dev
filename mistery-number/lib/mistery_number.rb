@@ -23,7 +23,7 @@ class MisteryNumber
       index += 1
     end
     resp[2] = index - 1
-    return (resp[0] && resp[1] == 0 ? "Qualquer coisa" : resp)
+    resp = (resp[0] && resp[1] == 0 ? "Qualquer coisa" : resp)
   end
   
   def calculate(operation)
@@ -67,7 +67,7 @@ class MisteryNumber
     #puts result
     #puts multiplier
     
-    result = result * multiplier
+    result * multiplier
 
   end
 end
