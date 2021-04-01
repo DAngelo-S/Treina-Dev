@@ -41,3 +41,9 @@ The aim of this course is to prepare the student for the job market.
 
 * Multiply odd or even numbers by a variable
     * File: [array-odd-even](array-odd-even)
+
+* Calc the multiplication table for a number n
+    * File: [multiplication-tables](multiplication-tables)
+
+* Replace each item in an array by its antecessor and its successor.
+    * File: [multiply-arrays](multiply-arrays)
