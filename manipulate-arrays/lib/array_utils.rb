@@ -4,9 +4,9 @@ class ArrayUtils
   end
 
   def self.divisiveis(num1, num2)
-    [(1..50).map{|i| i*num1}.select{|j| j % num1 == 0 && j % num2 == 0 && j <= 50}, 
-      (1..50).map{|i| i*num1}.select{|j| j % num2 != 0 && j <= 50}, 
-      (1..50).map{|i| i*num2}.select{|j| j % num1 != 0 && j <= 50}]
+    [(1..50).select{|j| j % num1 == 0 && j % num2 == 0}, 
+      (1..50).select{|j| j % num1 == 0 && j % num2 != 0}, 
+      (1..50).select{|j| j % num1 != 0 && j % num2 == 0}]
   end
 
   def self.soma(list)
