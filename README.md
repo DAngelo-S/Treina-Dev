@@ -53,3 +53,6 @@ The aim of this course is to prepare the student for the job market.
 
 * Create multiple functions to manipulate arrays
     * File: [manipulate-arrays](manipulate-arrays)
+
+* Print the sum of the numbers of unique chars of each string in an array.
+    * File: [unique-char-quantity](unique-char-quantity)
