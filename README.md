@@ -56,3 +56,12 @@ The aim of this course is to prepare the student for the job market.
 
 * Print the sum of the numbers of unique chars of each string in an array.
     * File: [unique-char-quantity](unique-char-quantity)
+
+## First Steps with OOP
+
+* Read a file and then convert binary numbers to decimal.
+    * File: [read-and-write-1](read-and-write-1)
+
+* Read a string and then convert each decimal number to a binary number and write it in a file.
+    * File: [read-and-write-2](read-and-write-2)
+
