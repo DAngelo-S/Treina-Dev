@@ -59,9 +59,20 @@ The aim of this course is to prepare the student for the job market.
 
 ## First Steps with OOP
 
+* Create a class with determinate atributtes.
+    * File> [oo-ecommerce-class](oo-ecommerce-class)
+
+* Create a class Product with values name, category, price and stock and with methods to add or remove items from the stock. Create another class Payment with values quantity, product, price and value and with methods calculate the value and apply the discount.
+    * File [oo-ecommerce-init](oo-ecommerce-init)
+
+* Apply good practices for OOP, connecting the classes.
+    * File [oo-ecommerce-methods](oo-ecommerce-methods)
+
 * Read a file and then convert binary numbers to decimal.
     * File: [read-and-write-1](read-and-write-1)
 
 * Read a string and then convert each decimal number to a binary number and write it in a file.
     * File: [read-and-write-2](read-and-write-2)
 
+* Use inheritance to create the classes PaymentCredit, ProductBooks, etc.
+    * File: [oo-ecommerce-inheritance](oo-ecommerce-inheritance)
