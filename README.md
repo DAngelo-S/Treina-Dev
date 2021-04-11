@@ -98,7 +98,7 @@ The aim of this course is to prepare the student for the job market.
     * File: [string-expander](string-expander)
 
 * Find the next N item in a sequence
-    * File: [sequence-reader]
+    * File: [sequence-reader](sequence-reader)
 
 * Hash and strings
     * File: [hash-num](hash-num)
@@ -115,3 +115,14 @@ The aim of this course is to prepare the student for the job market.
 * Find the minimum cost path to visit N planets
     * File: [space-trip](space-trip)
 
+* Find words in a hunting words
+    * File: [matrix-reader](matrix-reader)
+
+* Read a matrix in spiral
+    * File: [spirardigrada](spirardigrada)
+
+* Create and manipulate matrix
+    * File: [broken-windows](broken-windows)
+
+* Manipulate strings in a matrix
+    * File: [shifting-characters](shifting-characters)
