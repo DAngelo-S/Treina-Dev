@@ -76,3 +76,42 @@ The aim of this course is to prepare the student for the job market.
 
 * Use inheritance to create the classes PaymentCredit, ProductBooks, etc.
     * File: [oo-ecommerce-inheritance](oo-ecommerce-inheritance)
+
+* Read a JSON file with one object
+    * File: [file-objects-1](file-objects-1)
+
+* Write an object in a file JSON
+    * File: [file-objects-2](file-objects-2)
+
+* Read multiples objects from a JSON file
+    * File: [file-objects-3](file-objects-3)
+
+* Customize the to_json method
+    * File: [file-objects-4](file-objects-4)
+
+## Treina Dev 6
+
+* Count how many strings fit the requirements
+    * File: [find-repeated](find-repeated)
+
+* Extend a string that was compressed
+    * File: [string-expander](string-expander)
+
+* Find the next N item in a sequence
+    * File: [sequence-reader]
+
+* Hash and strings
+    * File: [hash-num](hash-num)
+
+* Find two numbers that one is multiple of the other and sum them
+    * File: [remainders](remainders)
+
+* Find two numbers that fit the requerements and then multiply them
+    * File: [find-and-multiply](remainders)
+
+* Find the array with the largest number of numbers in a row
+    * File: [longest-sequence](longest-sequence)
+
+* Find the minimum cost path to visit N planets
+    * File: [space-trip](space-trip)
+
