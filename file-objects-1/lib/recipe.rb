@@ -11,6 +11,7 @@ class Recipe
     def self.from_json(path_file)
         recipe = File.read(path_file)
         recipe = JSON.parse(recipe)
+        puts(recipe)
         Recipe.new(
             title: recipe['title'],
             description: recipe['description'],
